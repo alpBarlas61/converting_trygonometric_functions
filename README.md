@@ -8,4 +8,4 @@
 
 
 ---Division Remainders
-  Program finds the basic interval of the angle you entered (Exmp: You entered 760 , program simplifies it to 40 degree because both of these angles gives same results.)
+  Program finds the basic interval of the angle you entered [Exmp: You entered 760 , program simplifies it to 40 degree(760=2*360+40;2 is called as mod) because both of these angles gives same results.]
